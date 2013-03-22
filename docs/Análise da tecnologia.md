@@ -3,7 +3,8 @@ Análise da Tecnologia
 
 Este documento contém o racional acerca das decisões tomadas pela equipa no que concerne às tecnologias a utilizar.
 
-Serve ainda como guia onde foram incluídas notas acerca das instalações efectuadas.
+Serve ainda como guia onde foram incluídas notas acerca das instalações efectuadas. 
+(separar em dois ficheiros? .. um sobre tecnologia/escolhas, outro com notas acerca das instalações?)
 
 Todos os links para recursos, cuja informação se pretende garantir que continua a existir, encontram-se seguidos de 
 um outro link [[cópia]()] para uma cópia sua.
@@ -75,14 +76,6 @@ Utilizando o sistema operativo Windows:
 3. Executar o software obtido em 2 para gravar, num SD Card, a imagem obtida em 1.
 
 Mais detalhes em: http://www.raspberrypi.org/wp-content/uploads/2012/12/quick-start-guide-v1.1.pdf
-
-#### Arranque do SO
-
-1. Quando pretender usar VGA (em vez de HDMI) descomentar as linhas seguintes, do ficheiro 
-   
-  hdmi_group=1
-
-  hdmi_mode=1
 
 #### Os nossos SD Cards
 
